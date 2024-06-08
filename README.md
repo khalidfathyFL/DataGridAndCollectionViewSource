@@ -1,1 +1,3 @@
-# DataGridAndCollectionViewSource
+This repository demonstrates how to use CollectionViewSource and ICollectionView in a WPF application with hierarchical data binding, filtering, sorting, and grouping.
+
+Features Data Binding with CollectionViewSource: Hierarchical data binding using CollectionViewSource for Orders, Products, and Specifications. Search and Filter: Implementation of search functionality to filter displayed orders based on user input. Nested DataGrids: Display nested data using DataGrid with row details templates for showing products within orders and specifications within products. Commands for Navigation and Sorting: Commands to navigate (up and down), sort, and group data within the CollectionView. Design-time Data Context: Support for design-time data context in XAML for better development experience.
